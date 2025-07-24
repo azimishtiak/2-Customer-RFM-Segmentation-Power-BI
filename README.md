@@ -27,10 +27,10 @@ Visual breakdown of customer segments by RFM score.
 - Champions have the highest RFM scores, while "About to Sleep" and "Needs Attention" are at risk.
 - Useful for identifying top-performing and re-engagement target groups.
 
-### 📊 Exploring Specific RFM Segments
+### 🔍 Exploring Specific RFM Segments
 - Specific RFM Segment KPIs
 - Average Recency (In Days) for Subcategory
 - Customer Details in that specific segment
 
-### Action Plan
+### ✅ Action Plan
 Provides segment specific action plan to maintain, retain and reactive the customers based on their segments
