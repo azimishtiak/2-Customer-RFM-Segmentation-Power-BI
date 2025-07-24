@@ -19,3 +19,18 @@ Each customer receives a score from 1 (lowest) to 5 (highest) for each R, F, and
 ### 🧩 RFM Segment Profiles
 The table below outlines the classification of customers into distinct segments based on their RFM scores. Each segment is associated with a specific set of RFM score combinations and accompanied by a remark that explains the behavior and value of that group. This structured segmentation helps identify high-value customers like Champions, growth opportunities like Potential Loyalists, and at-risk groups such as those About to Sleep, enabling businesses to apply targeted engagement, retention, or reactivation strategies.
 
+### 📊 RFM Segments Highlights
+Visual breakdown of customer segments by RFM score.
+- Promising Customers have the highest count (5.71K), followed by Potential Loyalists and Loyal Customers.
+- Segment distribution shown across product categories and years.
+- AOV and Average Basket Size compared by segment for performance insight.
+- Champions have the highest RFM scores, while "About to Sleep" and "Needs Attention" are at risk.
+- Useful for identifying top-performing and re-engagement target groups.
+
+### 📊 Exploring Specific RFM Segments
+- Specific RFM Segment KPIs
+- Average Recency (In Days) for Subcategory
+- Customer Details in that specific segment
+
+### Action Plan
+Provides segment specific action plan to maintain, retain and reactive the customers based on their segments
