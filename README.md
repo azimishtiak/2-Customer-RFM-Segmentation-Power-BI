@@ -15,3 +15,7 @@ Monetary (M) – How much the customer has spent in total.
 Customers who spend more receive a higher monetary score.
 
 Each customer receives a score from 1 (lowest) to 5 (highest) for each R, F, and M metric. The combined RFM score (e.g., 555, 431) is used to classify customers into meaningful segments.
+
+### 🧩 RFM Segment Profiles
+The table below outlines the classification of customers into distinct segments based on their RFM scores. Each segment is associated with a specific set of RFM score combinations and accompanied by a remark that explains the behavior and value of that group. This structured segmentation helps identify high-value customers like Champions, growth opportunities like Potential Loyalists, and at-risk groups such as those About to Sleep, enabling businesses to apply targeted engagement, retention, or reactivation strategies.
+
