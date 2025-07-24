@@ -3,7 +3,7 @@ RFM Segmentation is a customer analytics technique that classifies customers bas
 ## Explore the RFM Segmentation Analysis:
 https://app.powerbi.com/view?r=eyJrIjoiYTZjODlmMjUtODk3Ni00OGY3LWI0MDAtYjdlZDcwMTEzN2U4IiwidCI6IjUyMDZlYzk2LWY0YzItNDc3My1hZjA3LTJmNDc3MzI4NmJjMCIsImMiOjEwfQ%3D%3D&pageName=fdcbc893851a41025e68
 
-### Assigning RFM Score
+### 📊Assigning RFM Score
 The RFM model scores each customer based on:
 Recency (R) – How recently a customer made a purchase.
 Higher recency score (e.g., 5) means the customer purchased more recently.
